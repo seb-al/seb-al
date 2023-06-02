@@ -16,8 +16,8 @@
     <p align="center">
     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic">
     <img src="https://img.shields.io/badge/-ReactNative-61DAFB?logo=react&logoColor=white&style=plastic">
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+      <img src="https://img.shields.io/badge/-express.JS-black?logo=express&logoColor=white">
+      <img src="https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white">
     </p>
     <p align="center"> Databases </p>
     <p align="center">
