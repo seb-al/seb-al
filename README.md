@@ -8,7 +8,7 @@
     <p align="center"> Languages </p>
     <p align="center">
     <img src="https://img.shields.io/badge/-JavaScript-E8CF14?logo=javascript&logoColor=white">
-      <img src="https://img.shields.io/badge/-NodeJS-green?logo=nodeJS&logoColor=white">
+      <img src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&logoColor=white">
       <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white">
     </p>
@@ -16,7 +16,7 @@
     <p align="center">
     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic">
     <img src="https://img.shields.io/badge/-ReactNative-61DAFB?logo=react&logoColor=white&style=plastic">
-      <img src="https://img.shields.io/badge/-express.JS-black?logo=express&logoColor=white">
+      <img src="https://img.shields.io/badge/-Express.JS-black?logo=express&logoColor=white">
       <img src="https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white">
     </p>
     <p align="center"> Databases </p>
