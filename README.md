@@ -7,15 +7,15 @@
     <h2 align="center">🛠 Skills :</h2>
     <p align="center"> Languages </p>
     <p align="center">
-    <img src="https://img.shields.io/badge/-JavaScript-white?logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/-JavaScript-EAD41C?logo=javascript&logoColor=white">
       <img src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&logoColor=white">
       <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white">
     </p>
     <p align="center"> Frameworks & Library </p>
     <p align="center">
-    <img src="https://img.shields.io/badge/-ReactJs-white?logo=react&logoColor=white&style=plastic">
-    <img src="https://img.shields.io/badge/-ReactNative-white?logo=react&logoColor=white&style=plastic">
+    <img src="https://img.shields.io/badge/-ReactJs-5ED3F3?logo=react&logoColor=white&style=plastic">
+    <img src="https://img.shields.io/badge/-ReactNative-5ED3F3?logo=react&logoColor=white&style=plastic">
       <img src="https://img.shields.io/badge/-Express.JS-black?logo=express&logoColor=white">
       <img src="https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white">
     </p>
